@@ -1,1 +1,7 @@
-[]
+[
+    {
+        "name": "dev-template-base",
+        "repo": "zeroenvs/dev-template-base",
+        "description": "A minimal Zero-Install development environment template for the ZeroEnvs ecosystem."
+    }
+]
