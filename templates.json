@@ -3,5 +3,10 @@
         "name": "dev-template-base",
         "repo": "zeroenvs/dev-template-base",
         "description": "A minimal Zero-Install development environment template for the ZeroEnvs ecosystem."
+    },
+    {
+        "name": "dev-template-dotnet-winforms",
+        "repo": "zeroenvs/dev-template-dotnet-winforms",
+        "description": "Zero-Install .NET WinForms development environment using Docker and Wine for Linux and WSL."
     }
 ]
